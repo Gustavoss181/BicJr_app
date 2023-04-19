@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471397107226",
+    "project_id": "bicjr-23306",
+    "storage_bucket": "bicjr-23306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471397107226:android:045d4d352a1904384df3a3",
+        "android_client_info": {
+          "package_name": "bicjr.bicjr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471397107226-do7fm1vhkos24bqjrli0tbu6l81j37b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bicjr.bicjr_app",
+            "certificate_hash": "60ef5fa7a30e57f22249dbbc628eab41a9cea16a"
+          }
+        },
+        {
+          "client_id": "471397107226-cuv704uhmgep3hjrq3f50l1s8o35af45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBij9sA7dTKRxmPXUVzvExTAPr_TZ2riu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471397107226-cuv704uhmgep3hjrq3f50l1s8o35af45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
